@@ -1,3 +1,7 @@
+# Note
+Most parts are retrieved from an open-source project. Changed some minor functionalities. Used for graduation project. 
+
+
 # tfidf-creator
 tf-idf creator using lucene
 
